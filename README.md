@@ -1,4 +1,4 @@
-# ead
+# Projeto do curso EAD com vue 3
 
 ## Project setup
 ```
